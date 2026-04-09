@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Frontend Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Problem+Solver;AI+Enthusiast;Digital+Marketing+Learner;Always+Learning+New+Things&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com?lines=CSE+Student;Frontend+Developer;Problem+Solver;AI+Enthusiast;Digital+Marketing+Learner;Always+Learning+New+Things&center=true&width=650&height=50">
 </p>
 
 <p align="center">
@@ -12,29 +12,29 @@
 ---
 
 ### ⚡ About Me
-I am a dedicated **Frontend Developer** and learner from Bangladesh.  
-I enjoy building clean, user-friendly, and interactive web experiences.  
-My focus is on combining **problem-solving skills** with modern web technologies.
+I am a passionate **CSE Student** and **Frontend Developer** from Bangladesh 🇧🇩  
+I love building clean, interactive, and user-friendly web applications.  
+Focused on improving my **problem-solving skills** and exploring modern technologies.
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://codeforces.com/profile/ni_bir" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://www.topcoder.com/members/8752" target="_blank">
-<img src="https://img.shields.io/badge/Topcoder-091727?style=for-the-badge&logo=topcoder&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-nibir-shahriar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:nibirshahriar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/ni_bir" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 </p>
 
 ---
 
 ### 👨‍💻 Current Focus
-- 🌱 Learning **HTML, CSS, JavaScript**
+- 🌱 Learning **HTML, CSS, JavaScript, React, NextJS**
 - 💡 Exploring new technologies  
 - 🤖 Interested in AI  
 - 🎯 Building real-world projects  
@@ -56,10 +56,11 @@ My focus is on combining **problem-solving skills** with modern web technologies
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nibirshahriar/nibirshahriar/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibirshahriar&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ---
 
